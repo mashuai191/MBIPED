@@ -16,5 +16,5 @@ if __name__=='__main__':
      # for example if the data is in /home/user_name/datasets/BIPED
     #  put /home/home/user_name
     #base_dir = '/home/home/user_name'
-    base_dir = '/opt'
+    base_dir = '/opt/dataset'
     main(dataset_dir=base_dir)
